@@ -1,0 +1,29 @@
+[33mcommit 4313e2e8643d42972f7d4aad505b4dbff43b6a71[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Felipe <felipepontescardoso@yahoo.com.br>
+Date:   Thu Aug 15 16:03:56 2019 -0300
+
+    Alterando título da página
+
+[33mcommit f5c007cb92f9356e287810b0451fb00b714bc799[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Felipe <felipepontescardoso@yahoo.com.br>
+Date:   Tue Aug 13 18:54:03 2019 -0300
+
+    Renomeando curso de Integração Contínua
+
+[33mcommit 8f83e92ffeee455ab219ba780777c83b08b5af99[m
+Author: Felipe <felipepontescardoso@yahoo.com.br>
+Date:   Tue Aug 13 18:41:46 2019 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 90fd86af6ecedefa9d50397719574d96af716185[m
+Author: Felipe <felipepontescardoso@yahoo.com.br>
+Date:   Tue Aug 13 18:39:38 2019 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit cc2769c1fbb75e32c8de169dbe4be5ed43d97bb9[m
+Author: Felipe <felipepontescardoso@yahoo.com.br>
+Date:   Tue Aug 13 18:38:53 2019 -0300
+
+    Criando arquivo index.html com lista de cursos
